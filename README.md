@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do João Nascimento 😁
+## Oi, eu sou João Nascimento
 
  <div>
    <a href="https://github.com/JNascimento0">
